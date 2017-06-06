@@ -29,8 +29,9 @@ body {
     -ms-flex-direction: column;
     flex-direction: column;
     background-color: #fff;
-    border: 1px solid rgba(0, 0, 0, 0.125);
-    border-radius: 0.25rem;
+    border: 10px solid rgba(0, 0, 0, 0.125);
+    border-radius: 1rem;
+	padding: 10rem;
 }
 
 .card-block {
