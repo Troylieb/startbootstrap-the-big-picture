@@ -1,3 +1,8 @@
+# I realized that I ripped out everything from the forked repo except for the custom CSS with the full screen background,
+So I am going to make a different repo and leave this here so that I am not working on a completely different thing from the forked repo
+
+---
+
 # [Start Bootstrap](http://startbootstrap.com/) - [The Big Picture](http://startbootstrap.com/template-overviews/the-big-picture/)
 
 [The Big Picture](http://startbootstrap.com/template-overviews/the-big-picture/) is a responsive HTML template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). The template features a full page background image and a fixed bottom navigation bar.
